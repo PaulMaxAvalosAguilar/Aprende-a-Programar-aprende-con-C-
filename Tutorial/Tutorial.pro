@@ -21,7 +21,8 @@ SOURCES += \
     stack.cpp \
     Punteros/claseprueba.cpp \
     Punteros/example.cpp \
-    Punteros/nodo.cpp
+    Punteros/nodo.cpp \
+    Punteros/lista.cpp
 
 
 
@@ -47,7 +48,8 @@ HEADERS += \
     stack.h \
     Punteros/claseprueba.h \
     Punteros/example.h \
-    Punteros/nodo.h
+    Punteros/nodo.h \
+    Punteros/lista.h
 
 
 
